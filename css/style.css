@@ -237,3 +237,7 @@ footer {
 }
 
 /* adding button to home page */
+
+.txt-type > .txt {
+  border-right: 0.2rem solid #777;
+}
